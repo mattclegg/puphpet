@@ -2,7 +2,7 @@
 
 [PuPHPet](https://puphpet.com) - A simple GUI to set up virtual machines for PHP development
 
-[![Build Status](https://travis-ci.org/puphpet/puphpet.png)](https://travis-ci.org/puphpet/puphpet) [![Code Climate](https://codeclimate.com/github/puphpet/puphpet/badges/gpa.svg)](https://codeclimate.com/github/puphpet/puphpet)
+[![Build Status](https://travis-ci.org/mattclegg/puphpet.svg?branch=master)](https://travis-ci.org/mattclegg/puphpet) [![Code Climate](https://codeclimate.com/github/puphpet/puphpet/badges/gpa.svg)](https://codeclimate.com/github/puphpet/puphpet)
 
 ## What? ##
 
